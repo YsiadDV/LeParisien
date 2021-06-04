@@ -8,5 +8,5 @@
  
   # Firefox users
  For firefox users, just click on this link and install it ;) : 
- https://addons.mozilla.org/fr/firefox/addon/parigopremium/
+ https://addons.mozilla.org/fr/firefox/addon/leparisien/
  
